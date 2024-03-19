@@ -42,15 +42,26 @@ Inferences
 ![image](https://github.com/ejwood1005/Melanoma_CNN/assets/151028418/09a6b592-6ac6-4046-9f41-fa992dab7dc0)
 
 Model 1
-There is huge variance between the Training Accuracy & Validation Accuracy.Training Accuracy is at approx. 90% and validation accuracy at approx. 55% is indicating that there is an overfitting issue.Applying Data Augmentation Technique to resolve the overfitting issue.
+
+There is huge variance between the Training Accuracy & Validation Accuracy. 
+Training Accuracy is at approx. 90% and validation accuracy at approx. 55% is indicating that there is an overfitting issue.
+Applying Data Augmentation Technique to resolve the overfitting issue.
 ![image](https://github.com/ejwood1005/Melanoma_CNN/assets/151028418/c64f8e9a-ade6-4a30-97a5-a39bc48a4fb1)
 
 Model 2
-The variance in Training Accuracy & Validation Accuracy has substantially reduced from Training Accuracy is at approx. 90% and validation accuracy at approx. 55% without data augmentation.The current training accuracy approx 60% and Test Accuracy greater than 50%.Looking at enhancing the accuracy of the model using Class Distribution and reducing the imbalances
+
+The variance in Training Accuracy & Validation Accuracy has substantially reduced from Training Accuracy is at approx. 90% and validation accuracy at approx. 55% without data augmentation.
+The current training accuracy approx 60% and Test Accuracy greater than 50%.
+Looking at enhancing the accuracy of the model using Class Distribution and reducing the imbalances
 ![image](https://github.com/ejwood1005/Melanoma_CNN/assets/151028418/ab860c11-5e65-4c9f-b13b-138b096d240e)
 
 Model 3
-The model accuracy for Training is around 60% and validation accuracy is around greater than 55%.There variance has been reduced from the initial model of Training Accuracy at approx. 90% and validation accuracy at approx. 55% without data augmentation.After using data augmentation, it was around training accuracy approx. 60% and Test Accuracy around 50%.After reducing the class imbalances and data augmentation the training accuracy is greater than 60% and Test Accuracy above 56%, this has helped in better accuracy and resolving overfitting.With the limited total population sample of 2239 and training sample size of 1792, the results generated have proved that is a good model for prediction.
+
+The model accuracy for Training is around 60% and validation accuracy is around greater than 55%.
+The variance has been reduced from the initial model of Training Accuracy at approx. 90% and validation accuracy at approx. 55% without data augmentation.
+After using data augmentation, it was around training accuracy approx. 60% and Test Accuracy around 50%.
+After reducing the class imbalances and data augmentation the training accuracy is greater than 60% and Test Accuracy above 56%, this has helped in better accuracy and resolving overfitting.
+With the limited total population sample of 2239 and training sample size of 1792, the results generated have proved that is a good model for prediction.
 Multiple code runs had been done
 ![image](https://github.com/ejwood1005/Melanoma_CNN/assets/151028418/41c53e82-2cbd-437b-9615-d302933b8ab9)
 
