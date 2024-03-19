@@ -63,5 +63,6 @@ After using data augmentation, it was around training accuracy approx. 60% and T
 After reducing the class imbalances and data augmentation the training accuracy is greater than 60% and Test Accuracy above 56%, this has helped in better accuracy and resolving overfitting.
 With the limited total population sample of 2239 and training sample size of 1792, the results generated have proved that is a good model for prediction.
 Multiple code runs had been done
+
 ![image](https://github.com/ejwood1005/Melanoma_CNN/assets/151028418/41c53e82-2cbd-437b-9615-d302933b8ab9)
 
