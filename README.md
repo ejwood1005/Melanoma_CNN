@@ -13,29 +13,31 @@ Data Description:
 
 Images – 2357
 
+
 Data Set Contains images of the mentioned diseases:
 
-Actinic keratosis
-Basal cell carcinoma
-Dermatofibroma
-Melanoma
-Nevus
-Pigmented benign keratosis
-Seborrheic keratosis
-Squamous cell carcinoma
-Vascular lesion
+Actinic keratosis.
+Basal cell carcinoma.
+Dermatofibroma.
+Melanoma.
+Nevus.
+Pigmented benign keratosis.
+Seborrheic keratosis.
+Squamous cell carcinoma.
+Vascular lesion.
+
 
 Model Creation Consideration:
 
-Data Reading/Data Understanding
-Dataset creation
-Dataset visualization
-Model Building & training
-Data augmentation
-Model Building & training
-Class distribution
-Handling class imbalances
-Model Building & training
+Data Reading/Data Understanding.
+Dataset creation.
+Dataset visualization.
+Model Building & training.
+Data augmentation.
+Model Building & training.
+Class distribution.
+Handling class imbalances.
+Model Building & training.
 Inferences
 
 Model 1
